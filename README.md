@@ -40,22 +40,16 @@ Blog : [junhobaik.github.io](https://junhobaik.github.io)
 
 <!-- ![Baik's github stats](https://github-readme-stats.vercel.app/api?username=junhobaik&hide=contribs,prs&show_icons=true) -->
 
-<br/>
+<center>
 
 <a href="https://github.com/junhobaik/junhobaik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhobaik&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhobaik&hide=html" />
 </a>
 <a href="https://github.com/junhobaik/junhobaik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junhobaik&show_icons=true&line_height=27&count_private=true" alt="Junho_Baik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junhobaik&show_icons=true&line_height=27&count_private=true" alt="Junho_Baik's GitHub Stats" />
 </a>
-
-<br/>
 
 ---
-
-<br/>
-
-<center>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=junhobaik/junhobaik)
 
