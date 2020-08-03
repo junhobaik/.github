@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhobaik&hide=html" />
 </a>
 <a href="https://github.com/junhobaik/junhobaik">
-  <img src="https://github-readme-stats.vercel.app/api?username=junhobaik&show_icons=true&line_height=27&count_private=true" alt="Junho_Baik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junhobaik&show_icons=true&line_height=32&count_private=true&hide=contribs" alt="Junho_Baik's GitHub Stats" />
 </a>
 </p>
 
