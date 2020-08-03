@@ -2,13 +2,13 @@
 
 Blog : [junhobaik.github.io](https://junhobaik.github.io)
 
-<center>
+<!-- skill start -->
 
 <!-- <img height="32" width="32" style="background-color:#E34F26; padding:0.5rem; border-radius: 3px;" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
 
 <img height="32" width="32" style="background-color:#1572B6; padding:0.5rem; border-radius: 3px;" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" /> -->
 
-<img height="32" width="32" style="background-color:#F7DF1E; padding:0.5rem; border-radius: 3px;" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
+<!-- <img height="32" width="32" style="background-color:#F7DF1E; padding:0.5rem; border-radius: 3px;" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
 
 <img height="32" width="32" style="background-color:#61DAFB; padding:0.5rem; border-radius: 3px;" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
 
@@ -32,18 +32,30 @@ Blog : [junhobaik.github.io](https://junhobaik.github.io)
 
 <img height="32" width="32" style="background-color:#E10098; padding:0.5rem; border-radius: 3px;" src="https://unpkg.com/simple-icons@v3/icons/graphql.svg" />
 
-<img height="32" width="32" style="background-color:#47A248; padding:0.5rem; border-radius: 3px;" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />
+<img height="32" width="32" style="background-color:#47A248; padding:0.5rem; border-radius: 3px;" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" /> -->
 
-<br/>
-<br/>
+<!-- skill end -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhobaik&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Baik's github stats](https://github-readme-stats.vercel.app/api?username=junhobaik&hide=contribs,prs&show_icons=true)
+<!-- ![Baik's github stats](https://github-readme-stats.vercel.app/api?username=junhobaik&hide=contribs,prs&show_icons=true) -->
+
+<br/>
+
+<a href="https://github.com/junhobaik/junhobaik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhobaik&hide=html" />
+</a>
+<a href="https://github.com/junhobaik/junhobaik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junhobaik&show_icons=true&line_height=27&count_private=true" alt="Junho_Baik's GitHub Stats" />
+</a>
+
+<br/>
 
 ---
 
 <br/>
+
+<center>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=junhobaik/junhobaik)
 
