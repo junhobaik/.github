@@ -1,15 +1,9 @@
 ## Junho Baik - @junhobaik
- 
-<br/>
 
 - Development blog : [junhobaik.github.io](https://junhobaik.github.io)
 - Portfolio : [private]
 
-<br/>
-
 ---
-
-<br/>
 
 <p align="">
 😎&nbsp;
@@ -47,14 +41,9 @@
 </a>
 </p>
 
-<br/>
-
 ---
 
-<br/>
-
 <p align="center">
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=junhobaik/junhobaik)
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=junhobaik/junhobaik" alt="visitor"/>
+  <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=junhobaik/junhobaik) -->
 </p>
