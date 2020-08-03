@@ -1,9 +1,9 @@
 ## Junho Baik - @junhobaik
 
-- Development blog : [junhobaik.github.io](https://junhobaik.github.io)
-- Portfolio : [private]
+🔗 Development blog : [junhobaik.github.io](https://junhobaik.github.io)  
+🔗 Portfolio : [private]
 
----
+<br/>
 
 <p align="">
 😎&nbsp;
